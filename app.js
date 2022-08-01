@@ -76,19 +76,3 @@ app.listen(process.env.PORT || 3000, function(){
 
 
 
-
-
-
-
-
-// Api key
-// d147755e4ef6fb4eeb8519aa6a8c8be6-us10
-// d147755e4ef6fb4eeb8519aa6a8c8be6-us10
-
-// List id
-// 8c6fea00ac
-// 8c6fea00ac
-
-
-// Deployed:
-// https://sheltered-depths-48180.herokuapp.com
